@@ -1,0 +1,24 @@
+{
+  "name": "azc",
+  "version": "0.0.1",
+  "description": "AZ Software Cloud, the free cloud for everyone.",
+  "main": "index.js",
+  "homepage": "https://github.com/azproductions/azc",
+  "url" : "https://github.com/azproductions/azc/issues",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": ["cloud","az cloud", "azsoftware", "az software", "az software org", "uprelease"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.1",
+    "nanospinner": "^1.0.0"
+  }
+}
